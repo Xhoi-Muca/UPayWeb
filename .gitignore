@@ -1,0 +1,16 @@
+node_modules/
+.next/
+tsconfig.tsbuildinfo
+.env
+.env.*
+.tools/
+research/
+presentation/
+.claude/
+
+# Play Store screenshots (UPay property - confirm usage rights first)
+site/public/img/app/
+
+# Internal reports
+UPAY_REDESIGN_REPORT.md
+UPAY_WEBSITE_AUDIT.md
